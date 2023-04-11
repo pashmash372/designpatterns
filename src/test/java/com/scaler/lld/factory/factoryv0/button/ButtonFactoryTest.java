@@ -1,4 +1,4 @@
-package com.scaler.lld.factoryv0.button;
+package com.scaler.lld.factory.factoryv0.button;
 
 import static org.junit.Assert.assertTrue;
 

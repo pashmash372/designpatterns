@@ -1,4 +1,4 @@
-package com.scaler.lld.factoryv1;
+package com.scaler.lld.factory.factoryv1;
 
  
 import static org.junit.Assert.assertTrue;
