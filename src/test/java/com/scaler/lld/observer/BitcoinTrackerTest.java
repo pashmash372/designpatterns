@@ -15,7 +15,7 @@ public class BitcoinTrackerTest {
     }
     @Test
     public void testPriceChangeEmail() {
-        bitcoinTracker.setPrice(17000.0);
+        bitcoinTracker.setPrice(17000.0);        
     }
 
     @Test
