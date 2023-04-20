@@ -9,6 +9,8 @@ public class Student extends User {
     private Double psp;
     private StudentStatus status = StudentStatus.ACTIVE;
 
+    
+
     public Student(String name, String email, String batchName, Double psp, StudentStatus status) {
 
         super(name, email);
